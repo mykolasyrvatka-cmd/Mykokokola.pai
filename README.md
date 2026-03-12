@@ -1,3 +1,1 @@
-# Mykola
-hello
-<img width="185" height="180" alt="image" src="https://github.com/user-attachments/assets/b1f5128c-b524-4ea7-a2c6-cb6d92dd261d" />
+<img width="291" height="175" alt="image" src="https://github.com/user-attachments/assets/0286c922-3e3d-4595-b93e-76c95cde7940" />
